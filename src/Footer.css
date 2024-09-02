@@ -1,0 +1,45 @@
+.footer {
+    background-color:#778DA9 ;
+    padding: 30px;
+    text-align: center;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .footer-column {
+    flex: 1;
+  }
+  
+  .company-logo {
+    max-width: 300px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+
+  a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  a:hover {
+    color: #1b09e0; 
+  }
+
+  .copyright {
+    margin-top: 20px;
+    font-size: 12px;
+  }
+
+  
+  
